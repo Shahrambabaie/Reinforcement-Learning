@@ -131,10 +131,7 @@ In this project, **Q-Learning outperformed SARSA**, achieving higher final rewar
 
 ```
 project/
-├── part_1_environment.ipynb        # Environment setup + visualization
-├── part_2_sarsa.ipynb              # SARSA implementation + tuning
-├── part_3_qlearning.ipynb          # Q-learning implementation + tuning
-├── utils/                          # Environment, agent, and plotting helpers
+├── Code.ipynb        # Environment setup + visualization + SARSA implementation + Q-learning implementation
 └── README.md                       # Documentation (this file)
 ```
 
