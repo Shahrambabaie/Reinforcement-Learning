@@ -1,5 +1,10 @@
 # 🤖 RL: SARSA & Q-Learning on a Custom GridWorld Environment
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahrambabaie/Reinforcement-Learning/main/banner.png" width="800">
+</p>
+
+
 This project implements and analyzes two foundational reinforcement learning algorithms — **SARSA** and **Q-Learning** — inside a fully custom-designed **5×5 GridWorld**.  
 It includes environment construction, reward design, safe movement rules, algorithm implementation, hyperparameter tuning, and visualization of learning performance.
 
