@@ -1,7 +1,7 @@
 # 🤖 RL: SARSA & Q-Learning on a Custom GridWorld Environment
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shahrambabaie/Reinforcement-Learning/main/banner.png" width="800">
+  <img src="https://raw.githubusercontent.com/Shahrambabaie/Reinforcement-Learning/main/banner.png" width="600">
 </p>
 
 
